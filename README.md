@@ -1,5 +1,5 @@
 # CRGN
-Deep Relation Reasoning for Cross-Modal Retrieval<br/>
+Deep Relation Embedding for Cross-Modal Retrieval<br/>
 
 This code is implemented by pytorch.<br/>
 The meaning of file and dir:<br/>
